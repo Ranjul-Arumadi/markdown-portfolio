@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_GitHub_ is a code hosting platform for **version control** and **collaboration**. It lets you and others work together on projects from anywhere.
